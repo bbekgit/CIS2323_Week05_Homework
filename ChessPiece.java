@@ -1,5 +1,3 @@
-package Piece;
-
 class ChessPiece
 {
 private int row,col;
